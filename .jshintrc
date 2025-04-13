@@ -15,5 +15,5 @@
     "expr": true,
     "loopfunc": true,
     "white": true,
-    "maxdepth": 8
+    "maxdepth": 4
 }
